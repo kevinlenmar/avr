@@ -1,0 +1,12 @@
+.marginbody{
+	margin: 0px;
+}
+
+.sidebar .sidebar-nav.navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#wrapper {
+    width: 100%;
+}
