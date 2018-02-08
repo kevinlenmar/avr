@@ -154,6 +154,8 @@ $(document).ready(function() {
 			events: 'avr/event',
 			timeFormat: 'h(:mm)t',
 			slotEventOverlap: false,
+			eventTextColor: '#000000',
+			eventRender: eventRenderCallback,
 			
 			select: function(start, end, jsEvent, view) {
 				
@@ -477,4 +479,9 @@ $(document).ready(function() {
 			
 		});
 });
+
+function eventRenderCallback(event, element, view){
+    var title = element.find(".fc-title").val();
+    element.find(".fc-title").html("<b>"+event.title+"</b>");
+}
 

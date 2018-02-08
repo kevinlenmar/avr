@@ -16,7 +16,7 @@
                                 <h3 style="margin-left: -115px; margin-top: 5px;">CEBU INSTITUTE OF TECHNOLOGY</h3>
                                 <h3 style="margin-left: -115px; margin-top: -50px;">_______________________________</h3>
                                 <h3 style="margin-left: -5px; margin-top: -25px;">UNIVERSITY</h3>
-                                <h3 style="margin-left: -170px; margin-top: -10px;">LIBRARY AND LEARNING RESOURCES CENTER</h3>
+                                <h3 style="margin-left: -170px; margin-top: -10px;">LIBRARY LEARNING AND RESOURCE CENTER</h3>
                                 <h3 style="margin-left: -10px; margin-top: -20px;">AVR BOOKING</h3>
                             </div>
                         </div>
